@@ -355,7 +355,7 @@ export default function App() {
 
             <a
               className="button-primary"
-              href="https://www.linkedin.com/in/ayush-upadhyay-01bba6280/"
+              href="https://www.linkedin.com/in/ayush-kumar-01bba6280/"
               target="_blank"
               rel="noopener noreferrer"
             >
